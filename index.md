@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to My Project Page
 
 **Name:** Yujia Wang  
